@@ -9,7 +9,7 @@ import streamlit as st
 
 st.title("Title heading")
 
-st.write("Hello, Streamlit!")
+st.write("Hello, Streamlit for beginner!")
 
 st.header("Number selection")
 
